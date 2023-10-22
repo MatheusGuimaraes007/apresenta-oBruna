@@ -66,6 +66,8 @@ body {
   font-style: normal;
   font-weight: 600;
   line-height: normal;
+  width: 100%;
+  text-align: center;
 }
 .btn-abas {
   margin-top: 0.625rem;
