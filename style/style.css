@@ -110,3 +110,11 @@ body {
   width: 30%;
   justify-content: space-around;
 }
+.n-tel {
+  color: #FFF;
+  text-align: center;
+  font-size: 1.125rem;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
