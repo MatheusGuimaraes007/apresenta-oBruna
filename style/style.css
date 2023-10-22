@@ -44,11 +44,12 @@ body {
 }
 .container-img {
   margin-top: 1.875rem;
-  width: 80%;
+  width: 90%;
 }
 .container-img img {
   width: 100%;
-  border-radius: 10px;
+  border: 6px solid #8868C7;
+  border-radius: 0.625rem;
 }
 .container-abas {
   margin-top: 1rem;
