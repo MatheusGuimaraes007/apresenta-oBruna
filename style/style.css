@@ -121,3 +121,30 @@ body {
   font-weight: 600;
   line-height: normal;
 }
+
+@media (width > 650px) {
+ .btn-abas {
+  width: 50%;
+ }
+ .container-img {
+  width: 60%;
+ }
+}
+
+@media (width > 900px) {
+  .container-header {
+    width: 50%;
+  }
+  .btn-abas {
+    width: 40%;
+   }
+  .container-img {
+    width: 40%;
+  }
+  span {
+    font-size: 3rem;
+  }
+  .redes-sociais {
+    width: 10%;
+  }
+}
