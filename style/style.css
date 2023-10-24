@@ -148,3 +148,13 @@ body {
     width: 10%;
   }
 }
+
+.section-desktop {
+  opacity: 0;
+  animation: fade-in 1s normal forwards ease-in-out;
+}
+
+@keyframes fade-in {
+  from { opacity: 0 }
+  to   { opacity: 1 }
+}
